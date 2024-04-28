@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T00:46:51.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.3.1" etag="S5S_McdDmvSiH09lCLYF" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-28T02:13:03.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="P0PcsOCvp3RwFoFo0xzW" version="24.3.1" type="github">
   <diagram name="Page-1" id="yFc_ulUAOd5rg2P4x2k_">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4DbhWPYz5QfxDqpqalYF-1" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;My Resume (Angular)&lt;/div&gt;https://my-resume-spa-angular.vercel.app/" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.sites.website;fontColor=#000066;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="640" y="210" width="59" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4DbhWPYz5QfxDqpqalYF-3" value="Desktop" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.laptop;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="570" y="367.5" width="58" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4DbhWPYz5QfxDqpqalYF-4" value="Mobile" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_proportional;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="730" y="367.5" width="17" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="4DbhWPYz5QfxDqpqalYF-6" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="604" y="360" as="sourcePoint" />
+            <mxPoint x="654" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4DbhWPYz5QfxDqpqalYF-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="360" as="sourcePoint" />
+            <mxPoint x="680" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4DbhWPYz5QfxDqpqalYF-8" value="MongoDB Atlas" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_mini_2;fillColor=#dae8fc;fontColor=#000066;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="402" y="50" width="35" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="4DbhWPYz5QfxDqpqalYF-9" value="Spring API&lt;div style=&quot;font-size: 14px;&quot;&gt;https://my-resume-api-spring.onrender.com/&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.hybrid_server;fontSize=14;fontColor=#000066;" vertex="1" parent="1">
+          <mxGeometry x="390" y="170" width="59" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="4DbhWPYz5QfxDqpqalYF-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="4DbhWPYz5QfxDqpqalYF-9" target="4DbhWPYz5QfxDqpqalYF-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="479" y="259" as="sourcePoint" />
+            <mxPoint x="529" y="209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4DbhWPYz5QfxDqpqalYF-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="4DbhWPYz5QfxDqpqalYF-9" target="4DbhWPYz5QfxDqpqalYF-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="220" as="sourcePoint" />
+            <mxPoint x="450" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4DbhWPYz5QfxDqpqalYF-13" value="my-resume-spa-angular" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000066;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="4DbhWPYz5QfxDqpqalYF-14" value="&lt;span class=&quot;AppHeader-context-item-label&quot; style=&quot;box-sizing: border-box; display: inline-block; overflow: hidden; text-overflow: ellipsis; text-wrap: nowrap;&quot;&gt;my-resume-api-spring&lt;/span&gt;" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000066;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="170" y="125" width="45" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
